@@ -1,1 +1,2 @@
-console.log("Olá bando de de corno");
+let nome = "SanVital";
+console.log(nome);
