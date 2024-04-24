@@ -1,1 +1,1 @@
-console.log("Olá mundão!");
+console.log("Olá bando de de corno");
